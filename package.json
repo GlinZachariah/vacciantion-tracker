@@ -1,0 +1,19 @@
+{
+  "name": "vaxtracker",
+  "version": "1.0.0",
+  "description": "vaccination tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vaccine",
+    "tracker"
+  ],
+  "author": "glinzac",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.1"
+  }
+}
