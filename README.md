@@ -1,8 +1,8 @@
-## Vaccination Details Notifier for 18+ for Ernakulam Dist,Kerala
+# Vaccination Details Notifier for 18+ for Ernakulam Dist,Kerala
 
 ![Completed](https://img.shields.io/badge/status-completed-green) ![Node](https://img.shields.io/badge/lang-Node-green)
 
-# Running the application
+## Running the application
 
 -	`npm install` to install the dependencies
 -	Set file location for the vaccination center details in index.js or print it directly
